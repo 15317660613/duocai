@@ -1,0 +1,185 @@
+.pop-up-container{
+
+  .word{
+    line-height:28px;
+    padding-right:2px;
+  }
+  .special-color-word{
+    color:#088383
+  }
+  .message-title{
+    font-size:14px;
+    font-weight:700;
+  }
+  .des-word{
+    width:55px;
+    text-align:right;
+  }
+  .des-left-word{
+    width:65px;
+    text-align:right;
+  }
+  .left-fundation {
+    padding: 10px 15px 0px 20px;
+    .img-style {
+      width: 180px;
+      height: 115px;
+      display: inline-block;
+    }
+  }
+  .des-type-special-word{
+    line-height:28px;
+    padding:0 5px 0 3px;
+    width:60px;
+    text-align:right;
+  }
+  .sell-content{
+    padding:10px 0 0 25px;
+    .des-type-word{
+      color:#993300;
+      line-height:28px;
+      padding:0 8px 0 5px;
+    }
+    .every-check{
+      padding-right:15px;
+    }
+    .every-check-special{
+      padding-right:10px;
+    }
+    .check-des-word{
+      line-height:28px;
+      padding-left:2px;
+      font-size:12px;
+    }
+  }
+  .plan-content{
+    padding: 10px 0px 0px 25px;
+  }
+  .remark{
+    padding:3px;
+    border:1px solid #aaa;
+    border-radius:5px;
+    font-size:12px;
+    color:#333;
+  }
+}
+.table-border{
+  border-width: 2px;
+  border-style: solid;
+  border-image: url("../../../images/system/border.png")  2 repeat ;
+  border-radius:5px;
+  margin-left:10px;
+}
+.des-type-word{
+  color:#3F993C;
+  line-height:27px;
+}
+.every-check-special{
+  padding-right:10px;
+}
+.check-des-word{
+  line-height:28px;
+  padding-left:2px;
+  font-size:12px;
+}
+
+.up-show-icon{
+  background:url(../../../images/icon2.png) -45px -45px;
+  width:20px;
+  height:20px;
+  display:block;
+  cursor:pointer;
+}
+.down-hide-icon{
+  background:url(../../../images/icon2.png) -79px -46px;
+  width:20px;
+  height:20px;
+  display:block;
+  cursor:pointer;
+}
+.add-icon{
+  background:url(../../../images/icon.png) -213px -172px;
+  width:20px;
+  height:20px;
+  display:block;
+  cursor:pointer;
+}
+.deleted-icon{
+  background:url(../../../images/icon.png) -240px -172px;
+  width:20px;
+  height:20px;
+  display:block;
+  cursor:pointer;
+}
+.break{
+  border-width: 2px;
+  border-top-width:0px;
+  border-style: solid;
+  border-image: url("../../../images/system/border.png")  2 repeat ;
+  margin:8px 0  0;
+}
+.main-icon{
+  background:url(../../../images/icon2.png) -16px -51px;
+  width:20px;
+  height:20px;
+  display:block;
+
+}
+.record-word{
+  color:#999;
+}
+.left-assocition{
+  width:619px;
+  margin:5px;
+  border:1px solid #aaa;
+  height:405px;
+  .public-pan-icon{
+    background:url(../../../images/icon.png) -322px -230px;
+    width:20px;
+    height:20px;
+    display:block;
+  }
+  .private-pan-icon{
+    background:url(../../../images/icon.png) -344px -230px;
+    width:20px;
+    height:20px;
+    display:block;
+  }
+}
+.right-assocition{
+  width:120px;
+  .association-icon{
+    background:url(../../../images/icon.png) -5px -151px;
+    width:20px;
+    height:20px;
+    display:block;
+    cursor:pointer;
+  }
+  .click-btn{
+    width:113px;
+    height:23px;
+    font-size:12px;
+    line-height:23px;
+    text-align:center;
+    border:1px solid #666;
+    margin: 10px 0 0 5px;
+    cursor:pointer;
+  }
+}
+.smalladd-icon{
+  background:url(../../../images/icon2.png) -156px -56px;
+  width:16px;
+  height:16px;
+  display:block;
+  cursor:pointer;
+}
+.smalldelete-icon{
+  background:url(../../../images/icon2.png) -182px -56px;
+  width:16px;
+  height:16px;
+  display:block;
+  cursor:pointer;
+}
+.el-table--scrollable-x .el-table__body-wrapper{
+  overflow:auto;
+}

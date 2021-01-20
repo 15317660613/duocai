@@ -1,0 +1,409 @@
+/*
+弹出框图标
+*/
+.question-icon{
+  display:inline-block;
+  width:25px;
+  height:22px;
+  background: url("./images/system/wenhao.png") -14px -15px no-repeat ;
+}
+
+.fail-icon{
+  display:inline-block;
+  width:25px;
+  height:22px;
+  background: url("./images/system/fail.png") -14px -15px no-repeat ;
+}
+
+.success-icon{
+  display:inline-block;
+  width:25px;
+  height:22px;
+  background: url("./images/system/success.png") -14px -15px no-repeat ;
+}
+
+.dangerous-icon{
+  display:inline-block;
+  width:25px;
+  height:22px;
+  background: url("./images/system/jinggao.png") -14px -15px no-repeat ;
+}
+
+/*
+ 列表查询图标
+
+*/
+.cut-icon {
+  background: url("./images/system/fenge.png") -100px -90px;
+  width: 3px;
+  height: 23px;
+  display: block;
+}
+.well-icon {
+  background: url("./images/icon.png") -170px -5px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.light-icon {
+  background: url("./images/icon.png") -342px -2px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+.xinzeng-icon {
+  background: url("./images/Area/xinzeng.png") -366px -10px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+.house-icon {
+  background: url("./images/icon.png") -12px -78px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.editor-icon {
+  background: url("./images/icon.png") -112px -40px;
+  width: 20px;
+  height: 22px;
+  display: block;
+}
+
+.use-icon {
+  background: url("./images/icon.png") -114px -80px;
+  width: 20px;
+  height: 22px;
+  display: block;
+}
+
+.change-icon {
+  background: url("./images/icon.png") -312px -0px;
+  width: 20px;
+  height: 22px;
+  display: block;
+}
+
+.user-house-icon {
+  background: url("./images/icon.png") -137px -42px;
+  width: 20px;
+  height: 22px;
+  display: block;
+}
+.platform-icon {
+  background: url("./images/icon.png") -36px -149px;
+  width: 20px;
+  height: 22px;
+  display: block;
+  cursor:pointer;
+}
+
+.filterchoose-icon{
+  background: url("./images/custom-icon.png") -395px -13px;
+  width: 21px;
+  height: 21px;
+  display: block;
+  cursor:pointer;
+}
+
+.change-type-icon {
+  background: url("./images/icon.png") -370px -228px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.leading-out-icon {
+  background: url("./images/icon.png") -126px -118px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.print-out-icon {
+  background: url("./images/system/daochu.png") -15px -15px;
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+.key-icon{
+  background:url("./images/icon.png") -308px -235px;
+  width: 10px;
+  height: 15px;
+  display: block;
+  cursor:pointer;
+}
+.special-icon{
+  background:url("./images/icon.png") -256px -5px;
+  width:20px;
+  height:20px;
+  display:block;
+}
+
+.private-icon{
+  background:url("./images/icon.png") -322px -230px;
+  width:20px;
+  height:20px;
+  display:block;
+  cursor:pointer;
+}
+.public-icon{
+  background:url("./images/icon.png") -344px -230px;
+  width:20px;
+  height:20px;
+  display:block;
+  cursor:pointer;
+}
+.close-icon{
+  background:url("./images/icon.png") -372px -5px;
+  width:20px;
+  height:20px;
+  display:block;
+  cursor:pointer;
+}
+.back-icon{
+  background:url("./images/system/tuichu.png") -15px -15px;
+  width:20px;
+  height:20px;
+  display:inline-block;
+  cursor:pointer;
+}
+
+.up-search-icon{
+  background:url("./images/icon.png")  -250px -143px;
+  width:24px;
+  height:20px;
+  display:inline-block;
+  border:1px solid #999999;
+}
+.down-search-icon{
+  background:url("./images/icon.png")  -276px -146px;
+  width:24px;
+  height:20px;
+  display:inline-block;
+  border:1px solid #999999;
+  cursor:pointer;
+}
+.stateColor1 {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  background: url(./images/state.png) -8px -10px;
+}
+.stateColor2 {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  background: url(./images/state.png) -43px -10px;
+}
+.stateColor3 {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  background: url(./images/state.png) -76px -10px;
+}
+
+.tdtopleft-icon{
+  background: url("./images/custom-icon.png") -68px -442px;
+  width: 33px;
+  height: 30px;
+  display: block;
+  cursor:pointer;
+}
+
+.tdbottomright-icon{
+  background: url("./images/custom-icon.png") -15px -442px;
+  width: 33px;
+  height: 30px;
+  display: block;
+  cursor:pointer;
+}
+.SingleWage-icon{
+  width: 16px;
+  height: 16px;
+  margin-top:3px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -291px -490px;
+}
+.SalaryPayment-icon{
+  width: 16px;
+  height: 16px;
+  margin-top:3px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -236px -490px;
+}
+.CancellationAccounts-icon{
+  width: 16px;
+  height: 16px;
+  margin-top:3px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -260px -490px;
+}
+.HaveBeenIssued-icon{
+  width: 16px;
+  margin-top:3px;
+  height: 16px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -319px -490px;
+}
+.qusetion-icon{
+  cursor:pointer;
+  width: 24px;
+  height: 23px;
+  display: inline-block;
+  background: url(./images/icon.png) -251px -194px;
+}
+.qusetion-icon:hover{
+  cursor:pointer;
+  width: 24px;
+  height: 23px;
+  display: inline-block;
+  background: url(./images/yyf.png) -475px -15px;
+}
+.money-icon{
+  cursor:pointer;
+  width: 23px;
+  height: 23px;
+  display: inline-block;
+  background: url(./images/icon.png) -32px -189px;
+}
+.orange-icon{
+  cursor:pointer;
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -240px -535px;
+}
+.blue-icon{
+  cursor:pointer;
+  width: 12px;
+  height: 12px;
+  display: block;
+  background: url(./images/custom-icon.png) -197px -535px;
+}
+.up-blue-icon{
+  cursor:pointer;
+  width: 25px;
+  height: 25px;
+  display: block;
+  background: url(./images/icon2.png) -18px -189px;
+}
+.filter-icon{
+  background:url(./images/custom-icon.png) -397px -14px;
+  width:20px;
+  height:20px;
+  display:block;
+}
+.down-angle-icon{
+  background:url(./images/icon2.png) -261px -22px;
+  width:8px;
+  height:10px;
+  display:block;
+  cursor:pointer;
+}
+.pensail-icon {
+  background: url(./images/icon.png) -323px -173px;
+  width: 21px;
+  height: 22px;
+  display: inline-block;
+  cursor: pointer;
+  left: 43px;
+  top: -52px;
+}
+.heiming-icon{
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -361px -344px;
+}
+
+.weiban-icon{
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -436px -344px;
+}
+
+.qiangzhi-icon{
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -17px -397px;
+}
+
+.add-icon{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -356px -255px;
+}
+
+.delete-icon{
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background: url(./images/custom-icon.png) -323px -255px;
+}
+.remark-icon{
+  display:inline-block;
+  width:15px;
+  height:15px;
+  background: url(./images/icon2.png)  -68px -189px no-repeat ;
+}
+.file-icon {
+  background: url(./images/icon2.png) -386px -95px;
+  width: 27px;
+  height: 24px;
+  display: block;
+  cursor: pointer;
+}
+.show-icon {
+  background: url(./images/icon2.png) -18px -140px;
+  width: 27px;
+  height: 24px;
+  display: block;
+  cursor: pointer;
+}
+.hide-icon {
+  background: url(./images/icon2.png) -433px -95px;
+  width: 27px;
+  height: 24px;
+  display: block;
+  cursor: pointer;
+}
+.down-page-icon{
+  background:url(./images/icon.png) -81px -118px;
+  width:17px;
+  height:17px;
+  display:block;
+  cursor:pointer;
+}
+.up-page-icon{
+  background:url(./images/icon.png) -105px -120px;
+  width:17px;
+  height:17px;
+  display:block;
+  cursor:pointer;
+}
+
+.calculate-icon{
+  cursor:pointer;
+  width: 15px;
+  height: 15px;
+  display: block;
+  background: url(./images/icon2.png) -430px -137px;
+}
+
+.border-icon{
+  padding:2px;
+}
+.border-icon:hover {
+  border-width: 2px;
+  border-style: solid;
+  border-image: url("./images/icon-border.png") 2 repeat;
+  padding:0px;
+}
+
+

@@ -1,0 +1,187 @@
+.require-word:before{
+  content: '*';
+  color: #F56C6C;
+  margin-right: 1px;
+}
+.require-word-i:before{
+  content: '*';
+  color: #F56C6C;
+  margin-right: 1px;
+}
+.l-h-27{
+  line-height:27px;
+}
+.remark{
+  padding:3px;
+  border:1px solid #aaa;
+  border-radius:5px;
+  font-size:12px;
+}
+.no-data-word{
+  line-height:230px;
+  text-align:center;
+  color:#B6B5B2;
+}
+.padding1{
+  padding-left:0px;
+  display:inline-block;
+  color:#000080;
+}
+.padding2{
+  padding-left:15px;
+  display:inline-block;
+  color:#000080;
+}
+.padding3{
+  padding-left:30px;
+  display:inline-block;
+  color:#000080;
+}
+.padding4{
+  padding-left:45px;
+  display:inline-block;
+  color:#000080;
+}
+.padding5{
+  padding-left:60px;
+  display:inline-block;
+  color:#000080;
+}
+
+.padding-l-10{
+  padding-left:10px;
+}
+.pop-up-container .el-select dropdown-list .el-select__tags {
+  display: none;
+
+}
+.house-special-icon{
+  background:url("../../../images/icon.png") -338px -146px;
+  width: 23px;
+  height: 20px;
+  display: inline-block;
+  cursor:pointer;
+}
+.customer-special-icon{
+  background:url("../../../images/icon.png")  -364px 147px;
+  width: 23px;
+  height: 20px;
+  display: inline-block;
+  cursor:pointer;
+}
+.followList{
+  margin:5px 10px 0 0;
+  border:1px solid #797979;
+  height:135px;
+  overflow:auto;
+  .elemFollow{
+    padding: 2px;
+    line-height: 16px;
+    border-bottom: 1px solid #ccc;
+    font-size: 12px;
+    background: #fbfbfb;
+
+  }
+}
+.left-content{
+  height:230px;
+  width:380px;
+  border-width:0px;
+  border-right-width: 2px;
+  border-top-width:0px;
+  border-style: solid;
+  border-image: url("../../../images/system/border.png")  2 repeat ;
+  .checkContent{
+    width:238px;
+    border-radius:5px;
+    border:1px solid #999;
+    background:#fff;
+
+  }
+}
+.right-content{
+  height:230px;
+  
+}
+
+.word{
+  font-size:12px;
+  line-height:28px;
+  display:inline-block;
+}
+
+.break{
+  border-width: 2px;
+  border-top-width:0px;
+  border-style: solid;
+  border-image: url("../../../images/system/border.png")  2 repeat ;
+  margin:8px 0  0;
+}
+.rent-icon{
+  background:url(../../../images/icon.png) -127px -0px;
+  width:29px;
+  height:28px;
+  display:block;
+  cursor:pointer;
+}
+.sale-house-icon{
+
+  background:url(../../../images/icon3.png) -186px  -15px;
+  width:28px;
+  height:30px;
+  display:block;
+  cursor:pointer;
+}
+.new-house-icon{
+  background:url(../../../images/icon3.png) -144px -15px;
+  width:28px;
+  height:30px;
+  display: inline-block;
+  cursor:pointer;
+}
+.rent-house-icon{
+  background:url(../../../images/icon3.png) -102px  -15px;
+  width:28px;
+  height:30px;
+  display: inline-block;
+  cursor:pointer;
+}
+.padding-t-10{
+  padding-top:10px;
+}
+.padding-t-6{
+  padding-top:6px;
+}
+.padding-t-2{
+  padding-top:2px;
+}
+.padding-r-2{
+  padding-right:2px;
+}
+.padding-r-1{
+  padding-right:1px;
+}
+.click-btn{
+  display:inline-block;
+  height:20px;
+  font-size:12px;
+  line-height:20px;
+  text-align:center;
+  border:1px solid #666;
+  margin: 5px 0 0 0px;
+  cursor:pointer;
+}
+/deep/ .el-textarea__inner{
+  padding:5px;
+  font-size:12px;
+  border:1px solid #aaa;
+}
+.table-border{
+  border-width: 2px;
+  border-style: solid;
+  border-image: url("../../../images/system/border.png")  2 repeat ;
+  border-radius:5px;
+  margin-left:10px;
+}
+
+

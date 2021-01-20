@@ -1,0 +1,241 @@
+
+const orColumn = [
+  {
+    id:2019070801,
+    type:'selection',
+    width:'30',
+    ref:'multipleTable',
+    prop:'check',
+    label:'',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070802,
+    type:'',
+    width:'40',
+    ref:'',
+    prop:'icon',
+    label:'!',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070803,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'name',
+    label:'姓名',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070804,
+    type:'',
+    width:'80',
+    ref:'',
+    prop:'num',
+    label:'人员编号',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070805,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'departName',
+    label:'部门',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070806,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'staffName',
+    label:'职位',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070807,
+    type:'',
+    width:'50',
+    ref:'',
+    prop:'gender',
+    label:'性别',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070808,
+    type:'',
+    width:'200',
+    ref:'',
+    prop:'idCard',
+    label:'身份证号',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+
+  {
+    id:2019070809,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'phone',
+    label:'电话',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070810,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'paramName',
+    label:'人员状态',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  
+
+  {
+    id:2019070811,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'onBoardingDate',
+    label:'入职',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070812,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'firstDate',
+    label:'首上',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070813,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'empStartDate',
+    label:'转正',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070814,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'leaveDate',
+    label:'离职',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070815,
+    type:'',
+    width:'100',
+    ref:'',
+    prop:'salaryEndDate',
+    label:'止薪',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+  {
+    id:2019070816,
+    type:'',
+    width:'200',
+    ref:'',
+    prop:'remarks',
+    label:'备注',
+    align:'center',
+    sortable:true,
+    show:true,
+    fixed:false
+  },
+
+];
+
+let orgnizetionStateTwo = [{
+  id:1,
+  name:"兼",
+  select:false
+},{
+  id:2,
+  name:"习",
+  select:false
+},{
+  id:3,
+  name:"试",
+  select:false
+},{
+  id:4,
+  name:"正",
+  select:false
+},];
+
+let orgnizetionStateThree = [{
+  id:1,
+  name:"空",
+  select:false
+},{
+  id:2,
+  name:"强制",
+  select:false
+},{
+  id:3,
+  name:"未办",
+  select:false
+},{
+  id:4,
+  name:"黑名",
+  select:false
+},];
+
+export const orgnizetionParam = {
+  orColumn: orColumn,
+  orgnizetionStateTwo:orgnizetionStateTwo,
+  orgnizetionStateThree:orgnizetionStateThree,
+}
